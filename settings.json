@@ -1,0 +1,18 @@
+{
+    "accounts":  {
+        "main_account": "",
+        "alt_accounts": []
+    },
+    "webhook": {
+        "enabled": false,
+        "url": ""
+    },
+    "misc": {
+        "bundles": true,
+        "heads": true,
+        "only_new": false,
+        "globallogs": {
+            "anonymous": true
+        }
+    }
+}
